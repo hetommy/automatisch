@@ -10,7 +10,7 @@ export default {
       type: 'string',
       required: true,
       readOnly: true,
-      value: '{WEB_APP_URL}/app/raindrop/connections/add',
+      value: '{WEB_APP_URL}/app/raindrop.io/connections/add',
       placeholder: null,
       description:
         'When asked to input an OAuth callback or redirect URL in Raindrop.io OAuth, enter the URL above.',

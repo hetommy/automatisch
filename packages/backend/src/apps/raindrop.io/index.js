@@ -5,9 +5,9 @@ import actions from './actions/index.js';
 
 export default defineApp({
   name: 'Raindrop.io',
-  key: 'raindrop',
-  iconUrl: '{BASE_URL}/apps/raindrop/assets/favicon.svg',
-  authDocUrl: '{DOCS_URL}/apps/raindrop/connection',
+  key: 'raindrop.io',
+  iconUrl: '{BASE_URL}/apps/raindrop.io/assets/favicon.svg',
+  authDocUrl: '{DOCS_URL}/apps/raindrop.io/connection',
   supportsConnections: true,
   baseUrl: 'https://raindrop.io',
   apiBaseUrl: 'https://api.raindrop.io',
